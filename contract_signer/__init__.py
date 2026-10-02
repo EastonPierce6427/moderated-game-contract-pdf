@@ -1,0 +1,1 @@
+"""Game contract signing example."""
